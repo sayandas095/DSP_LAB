@@ -5,6 +5,6 @@ Creating a menu-driven program:-
 
 - Create a Graph.
 
-- Do BFS traversal in the Graph
+- Doing BFS traversal in the Graph
 
-- Do DFS traversal in the Graph
+- Doing DFS traversal in the Graph
